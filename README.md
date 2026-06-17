@@ -1,16 +1,135 @@
-## Hi there 👋
+# Hi, I'm Hari Krishna 👋
 
-<!--
-**Hari-Krishna-07/Hari-Krishna-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biomedical Engineering Student | Embedded Systems Enthusiast | Healthcare Technology Learner
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=800&lines=Biomedical+Engineering+Student;Embedded+Systems+Enthusiast;Healthcare+Technology+Explorer;Arduino+and+IoT+Learner;Building+Technology+for+Better+Healthcare" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```yaml
+Name: Hari Krishna
+
+Education:
+  Biomedical Engineering (2nd Year)
+
+Interests:
+  - Embedded Systems
+  - Healthcare Technology
+  - Biomedical Instrumentation
+  - IoT Applications
+  - Medical Device Development
+
+Programming Languages:
+  - C
+  - Java
+  - HTML
+  - CSS
+
+Mission:
+  To develop innovative technology-driven healthcare
+  solutions that improve patient care and quality of life.
+```
+
+---
+
+## 🚀 What I'm Doing
+
+- 🎓 Pursuing Biomedical Engineering
+- 🔬 Exploring Biomedical Instrumentation and Embedded Systems
+- 💡 Building projects that combine Engineering and Healthcare
+- 🌱 Continuously learning Arduino, IoT, and Medical Device Technologies
+- 🤝 Actively participating in NSS, YRC, and Rotaract Club activities
+
+---
+
+## 🏥 Featured Projects
+
+### 👶 Smart Neonatal Incubator Monitoring and Temperature Control System
+
+- Automated incubator temperature monitoring
+- Cooling fan control and danger alerts
+- Arduino-based embedded healthcare solution
+- Simulated using Tinkercad
+
+### 🛏️ Hospital Bed Call Button with Priority System
+
+- Smart patient assistance system
+- Priority-based nurse call management
+- Improved patient response mechanism
+- Embedded systems implementation
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode" />
+</p>
+
+### Areas of Interest
+
+- Embedded Systems
+- Biomedical Engineering
+- Biomedical Instrumentation
+- Healthcare Automation
+- Internet of Things (IoT)
+- Medical Device Development
+
+---
+
+## 📈 Current Learning Goals
+
+- Arduino Programming
+- Sensor Interfacing
+- Embedded C
+- IoT-Based Healthcare Systems
+- Biomedical Signal Processing
+- Medical Device Design
+
+---
+
+## 🎯 Career Objective
+
+I am passionate about exploring innovative concepts that bridge engineering and medical science. My goal is to contribute to the development of intelligent healthcare technologies and biomedical devices that improve patient care and healthcare accessibility.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:harikrishnarix@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/hari-krishna-16a670327/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🌟 Beyond Academics
+
+- 🤝 NSS Volunteer
+- ❤️ Youth Red Cross (YRC) Member
+- 🌍 Rotaract Club Member
+- 📚 Passionate Learner
+- 🚀 Technology Enthusiast
+
+---
+
+<p align="center">
+  <b>"Engineering Healthcare Solutions Through Innovation and Technology."</b>
+</p>
