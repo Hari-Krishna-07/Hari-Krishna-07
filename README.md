@@ -19,7 +19,7 @@ Interests:
   - Medical Device Development
 
 Programming Languages:
-  - C
+  - C/C++
   - Java
 
 Web Development:
@@ -63,7 +63,7 @@ Mission:
 
 ## 💻 Technical Skills
 
-### Languages Known
+### 📄 Languages Known
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,html,css" />
