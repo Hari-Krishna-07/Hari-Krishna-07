@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Hari Krishna
+Name: Hari Krishna R
 
 Education:
   Biomedical Engineering (2nd Year)
@@ -22,7 +22,7 @@ Programming Languages:
   - C
   - Java
 
-Web Development;
+Web Development:
   - HTML
   - CSS
 
